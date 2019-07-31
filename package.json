@@ -1,11 +1,11 @@
 {
   "name": "WeatherKaur",
   "author": "Kirandeep Kaur",
-  "homepage": "https://kirandeep123.github.io/WeatherKaur",
   "email": "me@kiran.cc",
   "licence": "UNLICENSED",
   "version": "0.1.0",
   "private": true,
+  "homepage":"./",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
