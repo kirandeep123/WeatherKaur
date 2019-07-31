@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9bf0b96cc8d791975da2133b1d06f0da",
+    "revision": "779c5679a753a523e2fcf460786556cc",
     "url": "/WeatherKaur/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WeatherKaur/static/css/2.fa4a79a6.chunk.css"
   },
   {
-    "revision": "7dc7011c1937271d4b6c",
+    "revision": "6f419710895ab7e5d2d4",
     "url": "/WeatherKaur/static/css/main.b1ab0e2a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WeatherKaur/static/js/2.f1394722.chunk.js"
   },
   {
-    "revision": "7dc7011c1937271d4b6c",
-    "url": "/WeatherKaur/static/js/main.f97845c6.chunk.js"
+    "revision": "6f419710895ab7e5d2d4",
+    "url": "/WeatherKaur/static/js/main.576c2a06.chunk.js"
   },
   {
     "revision": "fd0415149b21cc3b1a78",
