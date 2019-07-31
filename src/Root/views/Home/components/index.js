@@ -1,0 +1,9 @@
+export { default as Apps } from './Apps';
+export { default as FAQ } from './FAQ';
+export { default as Features } from './Features';
+export { default as Header } from './Header';
+export { default as MoneyBack } from './MoneyBack';
+export { default as PluginsSupport } from './PluginsSupport';
+export { default as Previews } from './Previews';
+export { default as SourceFiles } from './SourceFiles';
+export { default as UserFlows } from './UserFlows';

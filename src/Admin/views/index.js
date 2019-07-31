@@ -1,0 +1,12 @@
+export { default as Analytics } from './Analytics';
+export { default as CustomerDetails } from './CustomerDetails';
+export { default as CustomerList } from './CustomerList';
+export { default as Home } from './Home';
+export { default as InvoiceDetails } from './InvoiceDetails';
+export { default as Mail } from './Mail';
+export { default as OrderDetails } from './OrderDetails';
+export { default as OrderList } from './OrderList';
+export { default as ProjectList } from './ProjectList';
+export { default as Settings } from './Settings';
+export { default as SignIn } from './SignIn';
+export { default as TeamTasks } from './TeamTasks';
