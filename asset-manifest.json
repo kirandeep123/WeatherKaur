@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/WeatherKaur/static/css/main.b1ab0e2a.chunk.css",
+    "main.js": "/WeatherKaur/static/js/main.f97845c6.chunk.js",
+    "main.js.map": "/WeatherKaur/static/js/main.f97845c6.chunk.js.map",
+    "runtime~main.js": "/WeatherKaur/static/js/runtime~main.9c7c5ce3.js",
+    "runtime~main.js.map": "/WeatherKaur/static/js/runtime~main.9c7c5ce3.js.map",
+    "static/css/2.fa4a79a6.chunk.css": "/WeatherKaur/static/css/2.fa4a79a6.chunk.css",
+    "static/js/2.f1394722.chunk.js": "/WeatherKaur/static/js/2.f1394722.chunk.js",
+    "static/js/2.f1394722.chunk.js.map": "/WeatherKaur/static/js/2.f1394722.chunk.js.map",
+    "index.html": "/WeatherKaur/index.html",
+    "precache-manifest.9f05cae20d9c1d501bcbf30121f3c905.js": "/WeatherKaur/precache-manifest.9f05cae20d9c1d501bcbf30121f3c905.js",
+    "service-worker.js": "/WeatherKaur/service-worker.js",
+    "static/css/2.fa4a79a6.chunk.css.map": "/WeatherKaur/static/css/2.fa4a79a6.chunk.css.map",
+    "static/css/main.b1ab0e2a.chunk.css.map": "/WeatherKaur/static/css/main.b1ab0e2a.chunk.css.map"
+  }
+}
