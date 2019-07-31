@@ -1,6 +1,7 @@
 {
   "name": "WeatherKaur",
   "author": "Kirandeep Kaur",
+  "homepage": "https://kirandeep123.github.io/WeatherKaur",
   "email": "me@kiran.cc",
   "licence": "UNLICENSED",
   "version": "0.1.0",
@@ -9,7 +10,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -37,6 +40,7 @@
     "chart.js": "^2.7.3",
     "clsx": "^1.0.4",
     "draft-js": "^0.11.0",
+    "gh-pages": "^2.0.1",
     "history": "^4.7.2",
     "immutable": "^4.0.0-rc.12",
     "js-cookie": "^2.2.0",

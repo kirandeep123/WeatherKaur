@@ -41,7 +41,7 @@ const Root = () => {
   return (
     <ThemeProvider theme={theme}>
       <MuiPickersUtilsProvider utils={MomentUtils}>
-        <Router history={history}>
+        <Router basename="WeatherKaur" history={history}>
           <GoogleAnalytics />
           <ScrollToTop />
           <QuickNavigation />
