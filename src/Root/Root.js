@@ -21,7 +21,9 @@ import './assets/scss/index.scss';
 import Client from '../Client';
 import Admin from '../Admin';
 
-const history = createBrowserHistory();
+const history = createBrowserHistory({
+  basename: process.env.PUBLIC_URL,
+});
 
 const Root = () => {
   const [openCookies, setOpenCookies] = useState(false);
@@ -41,7 +43,7 @@ const Root = () => {
   return (
     <ThemeProvider theme={theme}>
       <MuiPickersUtilsProvider utils={MomentUtils}>
-        <Router basename="WeatherKaur" history={history}>
+        <Router history={history}>
           <GoogleAnalytics />
           <ScrollToTop />
           <QuickNavigation />
